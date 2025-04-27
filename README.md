@@ -8,8 +8,8 @@ Logistic regression model for the bank loan risk prediction.
   * Logistic Regression
   
 * ### Release Note
-  * Release: 1.0.0
-  * Date: 2024/05/23
+  * Version: 1.0.0
+  * Release Date: 2024/05/23
   * Module: Bank Loan Risk Prediction Model
   * Changes
     * Logistic regression model developed for bank loan risk prediction.
